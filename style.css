@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carousel-inner2{
+    width: 340px;
+/*     height: 100px; */
+}
+
+
+.carousel-inner-nosotros {
+    width: 80%;
+}
+
+.card-body-1 {
+    text-align: center;
+    padding: 1.25rem; }
+
+.card-title1{
+    margin-bottom: 0.75rem;
+}
+
+.bg{
+    background-color: rgb(218, 169, 197);
+}
